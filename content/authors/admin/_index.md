@@ -171,4 +171,4 @@ education:
 
 ## About Me
 
-I am a master’s student in the Master’s in Machine Learning (MSML) program at Carnegie Mellon University, advised by Professor Sean Welleck. My research focuses on enhancing the logical reasoning capabilities of language models, with a particular emphasis on mathematical reasoning and interpretability. I aim to bridge the gap between human understanding and machine reasoning, enabling AI to excel in rigorous tasks like theorem proving, complex planning, and decision-making.
+I am a master’s student in the Master’s in Machine Learning ([MSML](https://www.ml.cmu.edu/academics/5th-year-ms.html)) program at [Carnegie Mellon University](https://www.cmu.edu/), advised by Professor [Sean Welleck](https://wellecks.com/). My research focuses on enhancing the logical reasoning capabilities of language models, with a particular emphasis on mathematical reasoning and interpretability. I aim to bridge the gap between human understanding and machine reasoning, enabling AI to excel in rigorous tasks like theorem proving, complex planning, and decision-making.
