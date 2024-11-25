@@ -73,7 +73,7 @@ work:
     date_start: 2024-02-01
     date_end: ''
     summary: |2-
-    Advised by Prof. [Sean Welleck](https://wellecks.com/)
+      Advised by Prof. [Sean Welleck](https://wellecks.com/)
     
 
 
