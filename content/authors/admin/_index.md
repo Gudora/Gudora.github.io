@@ -77,7 +77,7 @@ work:
       - Developed the miniCTX benchmark to evaluate large language models in formal mathematics, focusing on real-world proof generation using context information.
       - Fine-tuned deepseek-coder-1.3B model using file-tuning data, which incorporates context information alongside traditional state-tactic pairs, outperforming larger models like Llemma-7B and GPT-4o.
       - Developed a Python wrapper for Lean REPL, simplifying interactions with Lean and enhancing usability.
-      - Published the first-author paper ["miniCTX: Neural Theorem Proving with (Long-)Contexts”](https://cmu-l3.github.io/minictx/).
+      - Published the first-author paper ["miniCTX: Neural Theorem Proving with (Long-)Contexts"](https://cmu-l3.github.io/minictx/).
       - Planning to extend the benchmark to areas beyond math, such as program verification, and to evaluate premise selection methods.
 
   - position: "Graduate Student Researcher: Multitasking Facial Behavior Analysis Toolkit: Open Face 3.0"
