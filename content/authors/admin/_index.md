@@ -54,8 +54,8 @@ interests:
 education:
   - area: Master of Machine Learning
     institution: Carnegie Mellon University
-    date_start: 2024-09
-    date_end: 2025-05
+    date_start: 2024-09-01
+    date_end: 2025-05-08
     # summary: |
     #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     # button:
@@ -63,8 +63,8 @@ education:
     #   url: 'https://example.com'  
   - area: BSc Computer Science
     institution: Carnegie Mellon University
-    date_start: 2020-09
-    date_end: 2025-05
+    date_start: 2020-09-01
+    date_end: 2025-05-12
     summary: |
       Additional Major: Mathematical Science 
       Minor: Statistics
