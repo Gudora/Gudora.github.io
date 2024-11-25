@@ -33,5 +33,5 @@ abstract: The quality of finetuning data is crucial for aligning large language 
   future studies at https://github.com/GAIR-NLP/ReAlign.
 links:
 - name: URL
-  url: https://aclanthology.org/2024.findings-emnlp.32
+  url: https://github.com/GAIR-NLP/ReAlign
 ---
