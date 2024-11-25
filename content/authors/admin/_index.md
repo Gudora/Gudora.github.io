@@ -66,7 +66,7 @@ education:
       - Minor: Statistics
 
 work:
-  - position: "Graduate Student Researcher: _miniCTX Benchmark: Neural Theorem Proving with Context_"
+  - position: "Graduate Student Researcher: miniCTX Benchmark: Neural Theorem Proving with Context"
     company_name: Carnegie Mellon University
     company_url: ''
     company_logo: ''
@@ -80,7 +80,7 @@ work:
       - Published the first-author paper ["miniCTX: Neural Theorem Proving with (Long-)Contexts"](https://cmu-l3.github.io/minictx/).
       - Planning to extend the benchmark to areas beyond math, such as program verification, and to evaluate premise selection methods.
 
-  - position: "Graduate Student Researcher: _Open Face 3.0: Multitasking Facial Behavior Analysis Toolkit_"
+  - position: "Graduate Student Researcher: Open Face 3.0: Multitasking Facial Behavior Analysis Toolkit"
     company_name: Carnegie Mellon University
     company_url: ''
     company_logo: ''
@@ -92,7 +92,7 @@ work:
       - Enhanced toolkit accessibility by developing Python bindings that support both Open Face 2.0 and Open Face 3.0, enabling more flexible integration into computer vision applications.
       - Implemented generative models for data augmentation, specifically targeting non-frontal face images, to enhance facial landmark detection and emotion recognition accuracy.
 
-  - position: "Graduate Student Researcher: _Computational Evolutionary Dynamics Research_"
+  - position: "Graduate Student Researcher: Computational Evolutionary Dynamics Research"
     company_name: Carnegie Mellon University
     company_url: ''
     company_logo: ''
