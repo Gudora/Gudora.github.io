@@ -10,6 +10,7 @@ publication_types:
 - paper-conference
 publication: "*The 4th Workshop on Mathematical Reasoning and AI at NeurIPS'24*"
 
+links:
 - name: URL
   url: https://cmu-l3.github.io/minictx/
 url_pdf: 'https://www.arxiv.org/abs/2408.03350'
