@@ -67,10 +67,12 @@ education:
     date_start: 2020-09-01
     date_end: 2025-05-12
     summary: |
-      Additional Major: Mathematical Science 
-      Minor: Statistics
-      GPA: 3.8/4.0
-      
+      - Additional Major: Mathematical Science 
+      - Minor: Statistics
+
+research:
+    - position: Undergraduate Student Researcher
+      company_name: Carnegie Mellon University
 # work:
 #   - position: Director of Cloud Infrastructure
 #     company_name: GenCoin
