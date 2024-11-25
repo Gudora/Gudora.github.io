@@ -66,7 +66,7 @@ education:
       - Minor: Statistics
 
 work:
-  - position: Graduate Student Researcher: miniCTX Benchmark
+  - position: "Graduate Student Researcher: miniCTX Benchmark"
     company_name: Carnegie Mellon University
     company_url: ''
     company_logo: ''
@@ -80,7 +80,7 @@ work:
       - Published the first-author paper ["miniCTX: Neural Theorem Proving with (Long-)Contexts”](https://cmu-l3.github.io/minictx/).
       - Planning to extend the benchmark to areas beyond math, such as program verification, and to evaluate premise selection methods.
 
-  - position: Graduate Student Researcher: Multitasking Facial Behavior Analysis Toolkit: Open Face 3.0
+  - position: "Graduate Student Researcher: Multitasking Facial Behavior Analysis Toolkit: Open Face 3.0"
     company_name: Carnegie Mellon University
     company_url: ''
     company_logo: ''
