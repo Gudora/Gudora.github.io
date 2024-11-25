@@ -66,7 +66,7 @@ education:
       - Minor: Statistics
 
 work:
-  - position: "Graduate Student Researcher: miniCTX Benchmark"
+  - position: "Graduate Student Researcher: *miniCTX Benchmark: Neural Theorem Proving with Context*"
     company_name: Carnegie Mellon University
     company_url: ''
     company_logo: ''
@@ -80,7 +80,7 @@ work:
       - Published the first-author paper ["miniCTX: Neural Theorem Proving with (Long-)Contexts"](https://cmu-l3.github.io/minictx/).
       - Planning to extend the benchmark to areas beyond math, such as program verification, and to evaluate premise selection methods.
 
-  - position: "Graduate Student Researcher: Multitasking Facial Behavior Analysis Toolkit: Open Face 3.0"
+  - position: "Graduate Student Researcher: *Open Face 3.0: Multitasking Facial Behavior Analysis Toolkit*"
     company_name: Carnegie Mellon University
     company_url: ''
     company_logo: ''
@@ -91,6 +91,20 @@ work:
       - Developed a real-time multitasking framework for Open Face 3.0, supporting comprehensive facial behavior analysis including landmark detection, action unit detection, facial expression recognition, and gaze estimation.
       - Enhanced toolkit accessibility by developing Python bindings that support both Open Face 2.0 and Open Face 3.0, enabling more flexible integration into computer vision applications.
       - Implemented generative models for data augmentation, specifically targeting non-frontal face images, to enhance facial landmark detection and emotion recognition accuracy.
+
+  - position: "Graduate Student Researcher: *Computational Evolutionary Dynamics Research*"
+    company_name: Carnegie Mellon University
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-12-01
+    date_end: ''
+    summary: |2-
+      Advised by Prof. [Oana Carja](https://cbd.cmu.edu/people/carja.html)
+      - Investigated the effects of spatial structures, as characterized by graph properties, on evolutionary dynamics
+      - Explored the relationship between phylogenetic tree structures and graph properties, focusing on tree balance metrics.
+      - Utilized statistical tools to discern patterns of clonal evolutionary dynamics within complex graphs.
+      - Developed simulation programs to validate mathematical models.
+      - Conducted research into applications of these principles in network theory and biology.
 ---
 
 ## About Me
