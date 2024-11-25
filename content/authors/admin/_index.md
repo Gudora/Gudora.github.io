@@ -65,7 +65,7 @@ education:
   - area: BSc Computer Science
     institution: Carnegie Mellon University
     date_start: 2020-09-01
-    date_end: 2025-05-12
+    date_end: 2024-05-12
     summary: |
       - Additional Major: Mathematical Science 
       - Minor: Statistics
