@@ -21,7 +21,6 @@ sections:
   - block: experience
     content:
       title: Research Experience
-      username: admin
       date_format: Jan 2006
       items:
         - title: Undergraduate Student Researcher
