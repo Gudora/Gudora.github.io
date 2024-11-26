@@ -29,10 +29,10 @@ marketing:
 # Site header
 header:
   navbar:
-    enable: false
+    enable: true
     blox: "navbar"
     fixed_to_top: true
-    show_search: true
+    show_search: false
     show_theme_chooser: true
     logo:
       text: "Jiewen Hu"
