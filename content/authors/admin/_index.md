@@ -133,7 +133,7 @@ work:
 
 ## About Me
 
-I am a master’s student in the Master’s in Machine Learning ([MSML](https://www.ml.cmu.edu/academics/5th-year-ms.html)) program at [Carnegie Mellon University](https://www.cmu.edu/), advised by Professor [Sean Welleck](https://wellecks.com/). My research focuses on enhancing the logical reasoning capabilities of language models, with a particular emphasis on mathematical reasoning and interpretability. I aim to bridge the gap between human understanding and machine reasoning, enabling AI to excel in rigorous tasks like theorem proving, complex planning, and decision-making.
+I am a master’s student in the Machine Learning ([MSML](https://www.ml.cmu.edu/academics/5th-year-ms.html)) program at [Carnegie Mellon University](https://www.cmu.edu/), advised by Professor [Sean Welleck](https://wellecks.com/). My research focuses on enhancing the logical reasoning capabilities of language models, with a particular emphasis on mathematical reasoning and interpretability. I aim to bridge the gap between human understanding and machine reasoning, enabling AI to excel in rigorous tasks like theorem proving, complex planning, and decision-making.
 
 Previously, I completed an internship at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in summer 2023, advised by Professor [Pengfei Liu](https://plms.ai/people/index.html), where I worked on improving reasoning and alignment in large language models for mathematical tasks.
 
