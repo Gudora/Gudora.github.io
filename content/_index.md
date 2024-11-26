@@ -20,6 +20,9 @@ sections:
         url: uploads/Jiewen_Hu_CV.pdf
     design:
       columns: '1'
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['-20px', '0', '0', '0']
       # css_class: dark
       # background:
       #   color: black
