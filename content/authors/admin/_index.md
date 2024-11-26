@@ -92,6 +92,19 @@ work:
       - Enhanced toolkit accessibility by developing Python bindings that support both Open Face 2.0 and Open Face 3.0, enabling more flexible integration into computer vision applications.
       - Implemented generative models for data augmentation, specifically targeting non-frontal face images, to enhance facial landmark detection and emotion recognition accuracy.
 
+  - position: "Undergraduate Student Researcher: Large Language Model Specialized in Mathematics"
+    company_name: Shanghai Jiao Tong University
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-05-01
+    date_end: '2023-10-01'
+    summary: |2-
+      Advised by Prof. [Pengfei Liu](https://plms.ai/people/index.html)
+      - Developed and refined step-by-step math problem prompts for training data based on error cases, enhancing the reasoning capabilities and output readability of Llama2, resulting in a 10% performance increase on the GSM8K dataset.
+      - Explored methods to integrate supplementary datasets with the primary dataset for supervised fine-tuning to address specific shortcomings, such as arithmetic calculations in main mathematical tasks.
+      - Created and executed a variety of supervised fine-tuning experiments to understand responses from large language models.
+      - Contributed to the development of [Abel model](https://gair-nlp.github.io/abel/) and ["Reformatted Alignment"](https://gair-nlp.github.io/ReAlign/) paper.
+
   - position: "Graduate Student Researcher: Computational Evolutionary Dynamics Research"
     company_name: Carnegie Mellon University
     company_url: ''
@@ -100,11 +113,22 @@ work:
     date_end: ''
     summary: |2-
       Advised by Prof. [Oana Carja](https://cbd.cmu.edu/people/carja.html)
-      - Investigated the effects of spatial structures, as characterized by graph properties, on evolutionary dynamics
+      - Investigated the effects of spatial structures, as characterized by graph properties, on evolutionary dynamics.
       - Explored the relationship between phylogenetic tree structures and graph properties, focusing on tree balance metrics.
       - Utilized statistical tools to discern patterns of clonal evolutionary dynamics within complex graphs.
       - Developed simulation programs to validate mathematical models.
       - Conducted research into applications of these principles in network theory and biology.
+
+  - position: "Undergraduate Student Researcher: Real Analysis Research: Rearrangements of Functions"
+    company_name: Carnegie Mellon University
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-05-01
+    date_end: 2022-09-01
+    summary: |2-
+      Advised by Prof. [Giovanni Leoni](https://giovannileoni.weebly.com/)
+      - Investigated various properties, including bounded variation and absolute continuity, of decreasing rearrangement functions in Sobolev space.
+      - Collaborated with a small group to write research paper and presented at Mathematics Undergraduate Research Symposium ([slides](https://gudora.github.io/uploads/Rearrangements_of_Functions_slide.pdf)).
 ---
 
 ## About Me
