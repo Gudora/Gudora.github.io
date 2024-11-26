@@ -135,6 +135,6 @@ work:
 
 I am a master’s student in the Master’s in Machine Learning ([MSML](https://www.ml.cmu.edu/academics/5th-year-ms.html)) program at [Carnegie Mellon University](https://www.cmu.edu/), advised by Professor [Sean Welleck](https://wellecks.com/). My research focuses on enhancing the logical reasoning capabilities of language models, with a particular emphasis on mathematical reasoning and interpretability. I aim to bridge the gap between human understanding and machine reasoning, enabling AI to excel in rigorous tasks like theorem proving, complex planning, and decision-making.
 
-Previously, I completed an internship at Shanghai Jiao Tong University in summer 2023, advised by Professor Pengfei Liu, where I worked on improving reasoning and alignment in large language models for mathematical tasks.
+Previously, I completed an internship at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in summer 2023, advised by Professor [Pengfei Liu](https://plms.ai/people/index.html), where I worked on improving reasoning and alignment in large language models for mathematical tasks.
 
 I am also excited to explore new areas and have been fortunate to work with Professor [Oana Carja](https://cbd.cmu.edu/people/carja.html) on computational evolutionary biology, Professors [Paul Liang](https://www.mit.edu/~ppliang/) and [Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/) on facial behavior analysis toolkits, and Professor [Giovanni Leoni](https://giovannileoni.weebly.com/) on real analysis research. 
