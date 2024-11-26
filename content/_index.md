@@ -22,7 +22,7 @@ sections:
       columns: '1'
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['0', '0', '20px', '0']
+        padding: ['0', '0', '100px', '0']
       # css_class: dark
       # background:
       #   color: black
