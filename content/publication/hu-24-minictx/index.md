@@ -8,7 +8,7 @@ date: '2024-08-05'
 publishDate: '2024-11-25T19:10:00.431425Z'
 publication_types:
 - paper-conference
-publication: "*The 4th Workshop on Mathematical Reasoning and AI at NeurIPS'24*"
+publication: "*International Conference on Learning Representations (ICLR), 2025*"
 
 links:
 - name: URL
