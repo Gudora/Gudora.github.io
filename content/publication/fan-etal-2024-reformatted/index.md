@@ -13,7 +13,7 @@ date: '2024-02-19'
 publishDate: '2024-11-25T19:10:00.436144Z'
 publication_types:
 - paper-conference
-publication: '*Findings of the Association for Computational Linguistics: EMNLP 2024*'
+publication: '*Findings of EMNLP 2024*'
 abstract: The quality of finetuning data is crucial for aligning large language models
   (LLMs) with human values. Current methods to improve data quality are either labor-intensive
   or prone to factual errors caused by LLM hallucinations. This paper explores elevating

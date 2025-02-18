@@ -8,7 +8,7 @@ date: '2024-08-05'
 publishDate: '2024-11-25T19:10:00.431425Z'
 publication_types:
 - paper-conference
-publication: "*Oral, International Conference on Learning Representations (ICLR), 2025*"
+publication: "*ICLR 2025, Oral*"
 
 links:
 - name: URL
