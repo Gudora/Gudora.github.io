@@ -1,1 +1,1 @@
-template borrowed from [Hugo Academic CV Theme]https://github.com/HugoBlox/theme-academic-cv
+template borrowed from [Hugo Academic CV Theme]https://github.com/HugoBlox/theme-academic-cv.
